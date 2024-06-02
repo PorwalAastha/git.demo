@@ -1,4 +1,4 @@
 # git.demo
-this is my first git reppository.
+This is my first git Repository.
 <br>
 Author - Aastha Porwal
